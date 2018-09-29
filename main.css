@@ -1,11 +1,9 @@
-/*Google Fonts*/
 @import url('https://fonts.googleapis.com/css?family=Roboto:100');
-/*Material Button*/
 }
-.mbd {
+.mbd{
 background-color: #ff0000;
   font-family: "Roboto", sans-serif;
-  font-size: 14px;
+  font-size: 18px;
   border: none;
   border-radius: 2px;
   width: 150px;
