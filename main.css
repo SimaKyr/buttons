@@ -1,6 +1,6 @@
 @import url('https://fonts.googleapis.com/css?family=Roboto:100');
 }
-.mbd{
+.mbd {
 background-color: #ff0000;
   font-family: "Roboto", sans-serif;
   font-size: 18px;
@@ -10,3 +10,6 @@ background-color: #ff0000;
   height: 30px;
   color: #ff000;
   transition-duration: 0.2s;
+}
+p {
+  font-family: "Roboto", sans-serif;
