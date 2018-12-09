@@ -1,16 +1,26 @@
 @import url('https://fonts.googleapis.com/css?family=Roboto:100');
-}
-.button
+
 .mbd {
-background-color: #ff0000;
+background-color: #0464FC;
   font-family: "Roboto", sans-serif;
-  font-size: 18px;
-  border: none;
-  border-radius: 2px;
-  width: 150px;
-  height: 30px;
-  color: #ff000;
-  transition-duration: 0.2s;
+  font-weight: bold;
+  border: white;
+  border-width: 3px !important;
+  border-radius: 20px;
+  color: #fff;
+  font-size:20px;
+  outline: none;
+  transition-duration: .15s;
+  border-style: solid !important;
+  border-color: #0464FC !important;
 }
-p {
+
+.mbd:hover{
+background: white;
+color: #0464FC;
+transition-duration: .3s;
+}
+
+p, h1 {
   font-family: "Roboto", sans-serif;
+}
